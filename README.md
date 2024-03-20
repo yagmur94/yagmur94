@@ -1,16 +1,17 @@
-### Hi there 👋
+ Hello there, I'm Yagmur!
 
-<!--
-**yagmur94/yagmur94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate software developer specializing in Flutter and Dart technologies, 
+particularly focusing on mobile application development as a Jr. Flutter Developer.
 
-Here are some ideas to get you started:
+💼 Currently, I'm training at Tobeto, 
+where I contribute to real-world projects using Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 On my GitHub profile, 
+you can find my own projects as well as contributions to open-source projects.
+I'm here to showcase my technical skills and experience.
+
+📫 Feel free to reach out! 
+You can contact me at yagmuryildirim1994@gmail.com 
+for collaboration opportunities or any questions.
+
+Thanks for visiting and I'm excited to connect with you! 🙌
