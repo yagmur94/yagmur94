@@ -1,4 +1,4 @@
- Hello there, I'm Yagmur!
+ ## Hello there, I'm Yagmur!
 
 🚀 I'm a passionate software developer specializing in Flutter and Dart technologies, 
 particularly focusing on mobile application development as a Jr. Flutter Developer.
